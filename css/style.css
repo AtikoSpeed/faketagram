@@ -44,3 +44,20 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.heyt-54 {
+  height: 54px;
+}
+
+.pt-def {
+  padding-top: 54px;
+}
+
+.ml-192 {
+  margin-left: 192px;
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
